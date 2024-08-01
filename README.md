@@ -1,4 +1,4 @@
-# Serverless Reminder Application
+Serverless Reminder Application
 
 This is a mini project that uses AWS serverless services to send email reminders from a website.
 
@@ -20,5 +20,4 @@ This is a mini project that uses AWS serverless services to send email reminders
 - html
 
 
-## [Live Demo 🔗](https://marioszabo.net/projects/reminder/index.html)
 
