@@ -1,6 +1,6 @@
 Serverless Reminder Application
 
-This is a mini project that uses AWS serverless services to send email reminders from a website.
+This is a mini project that uses AWS serverless services to send email reminders from a website. 
 
 
 ## How it works ##
